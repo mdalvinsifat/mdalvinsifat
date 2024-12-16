@@ -69,7 +69,7 @@ User-friendly layout for gym services: [Visit Project](https://gym-project-git-m
 
 ## 🖼️ Animated Badge Showcase
 <p align="center">
-  <img src="https://github.com/mdalvinsifat/N4si/blob/main/Rachelle%20Beaudry.png" width="200px" alt="Alvin Sifat" />
+  <img src="https://github.com/mdalvinsifat/mdalvinsifat/blob/main/Rachelle%20Beaudry.png" width="200px" alt="Alvin Sifat" />
 </p>
 
 ---
