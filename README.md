@@ -1,6 +1,6 @@
 # Hi there, I'm Alvin Sifat! 👋
 
-![Header Image](https://github.com/mdalvinsifat/N4si/blob/main/Rachelle%20Beaudry.png)
+![Header Image](https://github.com/mdalvinsifat/mdalvinsifat/blob/main/Rachelle%20Beaudry.png)
 
 ---
 
